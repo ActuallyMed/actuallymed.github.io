@@ -1,0 +1,11 @@
+p {
+    font-family: 'JetBrains Mono', monospace;
+    margin: 3em;
+}
+h1 {
+    font-family: 'JetBrains Mono', monospace;
+    text-align: center;
+}
+a {
+    color: black;
+}
